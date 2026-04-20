@@ -1,2 +1,1 @@
-# zvio-15-pkgtools
-zVaultIO Package Tools for FBSD 15.0
+Forked from https://github.com/truenas/freenas-pkgtools
